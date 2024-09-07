@@ -1,0 +1,20 @@
+# Rust build artifacts
+/target/
+
+# Generated files
+/Cargo.lock
+
+# IDE or editor settings
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
